@@ -25,7 +25,8 @@ EYE EXERCISE APP
 ## 📸 Screenshot
 
 > _You can paste a screenshot here to show the app UI_  
-> Example: `![App Screenshot](assets/screenshot.png)`
+> Example: `![image](https://github.com/user-attachments/assets/7c81f0c9-0985-4bc0-a513-124dc6167480)
+`
 
 ---
 
